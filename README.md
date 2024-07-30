@@ -1,4 +1,4 @@
-# pizza_app_flutter
+# simple-caculator
 
 A new Flutter project.
 
